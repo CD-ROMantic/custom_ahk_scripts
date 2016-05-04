@@ -1,0 +1,4 @@
+#+TITLE: My personal AutoHotkey scripts
+#+AUTHOR: Geoff T. Wark
+
+These are my scripts for AutoHotkey which provide certain functionalites or are used for varying tasks.
